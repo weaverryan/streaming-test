@@ -1,6 +1,8 @@
 # Streaming Example
 
 ```
+git clone git@github.com:weaverryan/streaming-test.git
+cd streaming-test
 composer install
 symfony serve
 ```
